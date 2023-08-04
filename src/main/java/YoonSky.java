@@ -7,4 +7,5 @@ public class YoonSky {
     private String test4;
 
     private String test5;
+    private String test6;
 }
