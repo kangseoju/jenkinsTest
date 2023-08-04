@@ -8,4 +8,5 @@ public class YoonSky {
 
     private String test5;
     private String test6;
+    private String test7;
 }
